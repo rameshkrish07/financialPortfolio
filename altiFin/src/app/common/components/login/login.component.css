@@ -1,0 +1,13 @@
+.logo-background{
+    background-color: #3b524f;
+    opacity: 0.8;
+}
+
+.login-btn, .login-btn:hover, .form-check-input[type=checkbox]:checked{
+    background-color: #3b524f!important;
+    color: #fff;
+}
+.form-control:focus{
+    border-color: #3b524f!important;
+    box-shadow: inset 0px 0px 0px 1px #3b524f
+}
